@@ -1,0 +1,8 @@
+Problem - Maximum Bipartite Matching
+
+It is the hiring season and many companies have already started looking for applicants to fill
+positions. There are M job applicants and N jobs. Each applicant has a subset of jobs that he/she
+is interested in. Each job opening can only accept one applicant and a job applicant can be
+appointed for only one job. Implement and use the Ford-Fulkerson Algorithm for Maximum
+Flow Problem to find the assignment of jobs to applicants such that as many applicants as
+possible get jobs.
