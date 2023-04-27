@@ -1,0 +1,11 @@
+Problem - Java graph implementation using adjacency list
+
+Use the Java language to implement a Graph using an adjacency list.
+Provide implementations of the methods below:
+• Add an edge between two vertices a and b. [ addEdge(a,b) ]
+• Compute the degree of a vertex a. [ degreeVertex(a) ] //returns the number of
+neighbors for a given vertex a.
+• Print the adjacent vertices of a vertex a. [ printAdjVertices(a) ]
+Given an undirected graph, you are required to create its corresponding adjacency list using the
+Graph implementation above and print its vertices using Breadth First Search [ BFS ] and Depth
+First Search [ DFS ].
