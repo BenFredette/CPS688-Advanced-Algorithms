@@ -1,0 +1,17 @@
+In this lab assignment, there were 2 subproblems to be solved. They were as follows:
+
+1. Rod Cutting Problem
+
+Given a rod of steel, you need to cut it into pieces in a way to optimize the total revenue. The
+decision is where to cut the rod given that different piece lengths have different revenue.
+
+Formally,
+
+Given a rod of length n inches and a table of prices p[i], i=1,2,...,n, find the maximum revenue
+r[n] obtainable by cutting up the rod and selling the pieces.
+
+2. Strongly Connected Components
+
+Given a directed graph, write a program that checks if the given graph is strongly connected
+or not. A directed graph is said to be strongly connected if every vertex is reachable from
+every other vertex.
