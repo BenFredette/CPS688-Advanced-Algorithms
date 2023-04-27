@@ -1,0 +1,9 @@
+This lab assignment had two subproblems. They were as follows:
+
+1. Boyer-Moore Substring Search
+
+Implement the Boyer-Moore substring search algorithm in Java.
+
+2. Rabin-Karp Substring Search
+
+Implement the Rabin-Karp substring search algorithm in Java (Las Vegas version)
