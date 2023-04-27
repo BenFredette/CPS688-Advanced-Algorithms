@@ -2,8 +2,7 @@ In this lab there were 5 subproblems that had to be solved using various program
 
 1. N Queens Problem
 
-The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two
-queens attack each other.
+The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other.
 The idea is to place queens one by one in different columns, starting from the leftmost column. When placing a queen in a column, you should check 
 for clashes with already placed queens (no more than one Q in the row and column).
 
